@@ -6,7 +6,7 @@ Welcome to the Braille Image Processing assignment for the Computer Vision cours
 
 ### Task
 
-You will be provided with two Braille images: `braille1.png` and `braille2.png`. Your goal is to develop a solution that accurately extracts the dots from these images and translates them into English characters.
+You will be provided with two Braille images: `braille1.jpg` and `braille2.jpg`. Your goal is to develop a solution that accurately extracts the dots from these images and translates them into English characters.
 
 ### Getting Started
 
