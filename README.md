@@ -12,14 +12,14 @@ You will be provided with two Braille images: `braille1.jpg` and `braille2.jpg`.
 
 1. **Clone this repository to your local machine:**
 
-```bash
-git clone https://github.com/mshamrai-teaching/image-processing-braille
-```
+  ```bash
+   git clone https://github.com/mshamrai-teaching/image-processing-braille-*your-name*
+  ```
 
 2. **Navigate to the project directory:**
-```bash
-cd image-processing-braille
-```
+  ```bash
+   cd image-processing-braille-*your-name*
+  ```
 
 3. **Familiarize yourself with the provided Braille images:**
 * braille1.jpg
@@ -53,3 +53,6 @@ Ensure your final submission includes:
 * Source code (braille_processing.py\.ipynb or similar).
 * Processed images (braille_processed1.jpg and braille_processed1.jpg or similar).
 * A brief report (report.md or similar) explaining your approach and any challenges faced.
+
+
+Good luck, and enjoy exploring the world of image stitching! If you have any questions, feel free to reach out.
