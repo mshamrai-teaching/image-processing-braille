@@ -48,9 +48,11 @@ You will be provided with two Braille images: `braille1.jpg` and `braille2.jpg`.
 
 
 ### Submission
+To submit your solution create pull request to the `main` branch.  
+
 Ensure your final submission includes:
 
-* Source code (braille_processing.py\.ipynb or similar).
+* Source code (braille_processing.py\\.ipynb or similar).
 * Processed images (braille_processed1.jpg and braille_processed1.jpg or similar).
 * A brief report (report.md or similar) explaining your approach and any challenges faced.
 
