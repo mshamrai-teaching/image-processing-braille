@@ -50,5 +50,6 @@ cd image-processing-braille
 ### Submission
 Ensure your final submission includes:
 
-* Source code (braille_processing.py or similar).
+* Source code (braille_processing.py\.ipynb or similar).
+* Processed images (braille_processed1.jpg and braille_processed1.jpg or similar).
 * A brief report (report.md or similar) explaining your approach and any challenges faced.
