@@ -22,14 +22,14 @@ cd image-processing-braille
 ```
 
 3. **Familiarize yourself with the provided Braille images:**
-* braille1.png
-* braille2.png
+* braille1.jpg
+* braille2.jpg
 
 ### Guidelines
 * Tools: Use classical computer vision techniques with OpenCV.
 * Files:
-  * braille1.png: First Braille image for processing.
-  * braille2.png: Second Braille image for processing.
+  * braille1.jpg: First Braille image for processing.
+  * braille2.jpg: Second Braille image for processing.
 * Restrictions: Neural networks are not allowed for this assignment.
 
 ### Hints
